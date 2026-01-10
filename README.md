@@ -5,12 +5,12 @@
     <i>Focusing on 2D/3D Recognition Tasks</i>
   </p>
 
-  <a href="mailto:liuhaoyuan@akane.waseda.jp">
+  <!-- <a href="liuhaoyuan@akane.waseda.jp">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID">
+  </a> -->
+  <!-- <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID">
     <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar" />
-  </a>
+  </a> -->
 </div>
 
 ---
