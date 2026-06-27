@@ -28,7 +28,9 @@
 
 I am a Ph.D. candidate at **Waseda University**, Japan, advised by [**Prof. Hiroshi Watanabe**](https://www.ams.giti.waseda.ac.jp/) at the [AMS Lab](https://www.ams.giti.waseda.ac.jp/), where I also lead the Recognition Research Group. I hold a B.S. in Information and Computing Science from the School of Mathematical Sciences at **Beihang University**, and I keep a mathematical view on detection: reconstructing static hyperparameters as functions of object geometry such as scale and area, and validating these mappings through large-scale systematic experiments.
 
-My Ph.D. research centers on **small object detection in aerial and UAV imagery**, covering label assignment, bounding box regression, and feature modeling under small-object, dense, and cross-scale conditions. My **ongoing work** extends this line from task-specific detection toward **open-vocabulary detection and language-guided localization** with compact vision-language models, and toward multimodal agent systems that build on reliable perception.
+My Ph.D. research centers on **small object detection in aerial and UAV imagery**, covering label assignment, bounding box regression, and feature modeling under small-object, dense, and cross-scale conditions. 
+
+My **ongoing work** extends this line from task-specific detection toward **open-vocabulary detection and language-guided localization** with compact vision-language models, and toward multimodal agent systems that build on reliable perception.
 
 > *Expected graduation: late 2026. I am open to postdoctoral and research positions.*
 
