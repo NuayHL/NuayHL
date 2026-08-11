@@ -1,8 +1,9 @@
 <div align="center">
   <h1>Hi there, I'm Haoyuan Liu 👋</h1>
   <p>
+    <b>Incoming Postdoctoral Researcher @ <a href="https://lumen-lab-polyu.github.io/">Lumen Lab</a>, The Hong Kong Polytechnic University</b><br>
     <b>Ph.D. Candidate @ Waseda University (AMS Lab)</b><br>
-    <i>Small / Dense Object Detection · Multi-Modal Perception · Vision-Language Models</i>
+    <i>Small / Dense Object Detection · CAD Generation with LLMs · Multi-Modal Perception & Agent Systems</i>
   </p>
 
   <a href="mailto:liuhaoyuan@akane.waseda.jp">
@@ -10,6 +11,9 @@
   </a>
   <a href="https://github.com/NuayHL">
     <img src="https://img.shields.io/badge/GitHub-NuayHL-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://lumen-lab-polyu.github.io/team/">
+    <img src="https://img.shields.io/badge/Lumen%20Lab-PolyU-A6192E?style=flat-square" alt="Lumen Lab" />
   </a>
   <a href="./Haoyuan_Liu_CV.pdf">
     <img src="https://img.shields.io/badge/CV-Download%20PDF-D32F2F?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="CV" />
@@ -26,13 +30,14 @@
 
 ### About Me
 
-I am a Ph.D. candidate at **Waseda University**, Japan, advised by [**Prof. Hiroshi Watanabe**](https://www.ams.giti.waseda.ac.jp/) at the [AMS Lab](https://www.ams.giti.waseda.ac.jp/), where I also lead the Recognition Research Group. I hold a B.S. in Information and Computing Science from the School of Mathematical Sciences at **Beihang University**, and I keep a mathematical view on detection: reconstructing static hyperparameters as functions of object geometry such as scale and area, and validating these mappings through large-scale systematic experiments.
+I am a Ph.D. candidate at **Waseda University**, Japan, advised by [**Prof. Hiroshi Watanabe**](https://www.ams.giti.waseda.ac.jp/) at the [AMS Lab](https://www.ams.giti.waseda.ac.jp/), where I also lead the Recognition Research Group. From **October 2026** I will join the [**Lumen Lab**](https://lumen-lab-polyu.github.io/) at **The Hong Kong Polytechnic University** as a Postdoctoral Researcher, working with [**Prof. Jingcai Guo**](https://jingcaiguo.github.io/).
 
-My Ph.D. research centers on **small object detection in aerial and UAV imagery**, covering label assignment, bounding box regression, and feature modeling under small-object, dense, and cross-scale conditions. 
 
-My **ongoing work** extends this line from task-specific detection toward **open-vocabulary detection and language-guided localization** with compact vision-language models, and toward multimodal agent systems that build on reliable perception.
+My Ph.D. research centers on **small object detection in aerial and UAV imagery**, covering label assignment, bounding box regression, and feature modeling under small-object, dense, and cross-scale conditions.
 
-> *Expected graduation: late 2026. I am open to postdoctoral and research positions.*
+My **current work** moves from perception to structured generation: **text-to-CAD**, where compact language models are fine-tuned to generate parametric CAD programs (CadQuery) from natural language. Alongside this, I continue to work on open-vocabulary detection and language-guided localization with compact vision-language models, and on agent systems that build on reliable perception.
+
+> *Expected graduation: Sep 2026.*
 
 <div align="left">
   <a href="./Haoyuan_Liu_CV.pdf">
@@ -45,7 +50,8 @@ My **ongoing work** extends this line from task-specific detection toward **open
 ### Research Interests
 
 * **Visual Perception & Scene Understanding:** Object detection, segmentation, and fine-grained recognition, with a focus on representation stability and generalization under small-object, dense, and cross-scale settings, extending to open-vocabulary detection.
-* **Self-Supervised Representation Learning:** Transformer-based self-supervised methods (e.g., the DINO series), and their transfer to downstream detection and localization tasks.
+* **Structured & Geometry-Aware Generation:** Parametric CAD program synthesis with compact language models, emphasizing geometric validity, constraint-based supervision, and executable outputs.
+<!-- * **Self-Supervised Representation Learning:** Transformer-based self-supervised methods (e.g., the DINO series), and their transfer to downstream detection and localization tasks. -->
 * **Multi-Modal Perception & Agent Systems:** RGB-infrared/thermal fusion and remote sensing understanding, and agent systems built on compact vision-language models with open-vocabulary grounding, referring localization, and tool use.
 
 ---
