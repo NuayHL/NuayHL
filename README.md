@@ -15,8 +15,8 @@
   <a href="https://lumen-lab-polyu.github.io/team/">
     <img src="https://img.shields.io/badge/Lumen%20Lab-PolyU-A6192E?style=flat-square" alt="Lumen Lab" />
   </a>
-  <a href="./Haoyuan_Liu_CV.pdf">
-    <img src="https://img.shields.io/badge/CV-Download%20PDF-D32F2F?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="CV" />
+  <a href="https://nuayhl.github.io/Haoyuan_Liu_CV.pdf">
+    <img src="https://img.shields.io/badge/CV-View%20PDF-D32F2F?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="CV" />
   </a>
   <!--
   Fill in your Scholar ID and uncomment to enable.
@@ -40,8 +40,11 @@ My **current work** moves from perception to structured generation: **text-to-CA
 > *Expected graduation: Sep 2026.*
 
 <div align="left">
-  <a href="./Haoyuan_Liu_CV.pdf">
-    <img src="https://img.shields.io/badge/%F0%9F%93%84%20Download%20My%20CV-PDF-D32F2F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
+  <a href="https://nuayhl.github.io/Haoyuan_Liu_CV.pdf">
+    <img src="https://img.shields.io/badge/%F0%9F%93%84%20View%20My%20CV-PDF-D32F2F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View CV" />
+  </a>
+  <a href="https://github.com/NuayHL/NuayHL/raw/main/Haoyuan_Liu_CV.pdf">
+    <img src="https://img.shields.io/badge/Download-PDF-6e7781?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
   </a>
 </div>
 
