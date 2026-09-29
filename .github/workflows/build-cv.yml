@@ -1,0 +1,47 @@
+name: Build CV
+
+# 只要 CV 源文件或配图有改动，就重新编译 PDF。
+# workflow 文件本身也在列表里，这样改了流程能立刻验证。
+on:
+  push:
+    paths:
+      - cv_eng.tex
+      - figure.png
+      - .github/workflows/build-cv.yml
+  workflow_dispatch: # 也可以在 Actions 页面手动点一下重新构建
+
+# 允许把编译好的 PDF 提交回仓库（否则默认权限是只读，push 会失败）
+permissions:
+  contents: write
+
+# 连续 push 时取消上一次还没跑完的任务，避免两次 push 抢着提交
+concurrency:
+  group: build-cv
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      # 官方镜像内置完整 TeX Live，pdflatex 与 sourcesanspro 等宏包开箱可用
+      - name: Compile cv_eng.tex
+        uses: xu-cheng/latex-action@v4
+        with:
+          root_file: cv_eng.tex
+
+      # 把产物改名成仓库里公开的 CV 文件名并提交回去。
+      # 用 GITHUB_TOKEN 提交不会再次触发 workflow，不会造成循环。
+      - name: Publish PDF
+        run: |
+          mv cv_eng.pdf Haoyuan_Liu_CV.pdf
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Haoyuan_Liu_CV.pdf
+          if git diff --cached --quiet; then
+            echo "PDF 内容没有变化，不需要提交。"
+            exit 0
+          fi
+          git commit -m "Auto-build CV from cv_eng.tex [skip ci]"
+          git push

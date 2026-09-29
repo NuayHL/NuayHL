@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# LaTeX 编译中间产物
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# 编译产物：仓库里对外发布的是 Haoyuan_Liu_CV.pdf，
+# cv_eng.pdf 只是 workflow / 本地编译的中间文件
+cv_eng.pdf
