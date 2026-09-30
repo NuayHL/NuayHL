@@ -6,9 +6,7 @@
     <i>Small / Dense Object Detection · CAD Generation with LLMs · Multi-Modal Perception & Agent Systems</i>
   </p>
 
-  <a href="mailto:liuhaoyuan@akane.waseda.jp">
-    <img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://img.shields.io/badge/Email-liuhaoyuan%20%5Bat%5D%20akane.waseda.jp-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email: liuhaoyuan [at] akane.waseda.jp" />
   <a href="https://github.com/NuayHL">
     <img src="https://img.shields.io/badge/GitHub-NuayHL-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
