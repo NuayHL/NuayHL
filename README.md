@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Haoyuan Liu 👋</h1>
   <p>
     <b>Incoming Postdoctoral Researcher @ <a href="https://lumen-lab-polyu.github.io/">Lumen Lab</a>, The Hong Kong Polytechnic University</b><br>
-    <b>Ph.D. Candidate @ Waseda University (AMS Lab)</b><br>
+    <b>Ph.D. @ Waseda University (AMS Lab)</b><br>
     <i>Small / Dense Object Detection · CAD Generation with LLMs · Multi-Modal Perception & Agent Systems</i>
   </p>
 
@@ -28,14 +28,14 @@
 
 ### About Me
 
-I am a Ph.D. candidate at **Waseda University**, Japan, advised by [**Prof. Hiroshi Watanabe**](https://www.ams.giti.waseda.ac.jp/) at the [AMS Lab](https://www.ams.giti.waseda.ac.jp/), where I also lead the Recognition Research Group. From **October 2026** I will join the [**Lumen Lab**](https://lumen-lab-polyu.github.io/) at **The Hong Kong Polytechnic University** as a Postdoctoral Researcher, working with [**Prof. Jingcai Guo**](https://jingcaiguo.github.io/).
+I received my Ph.D. in Computer Science and Communications Engineering from **Waseda University**, Japan, in **September 2026**, advised by [**Prof. Hiroshi Watanabe**](https://www.ams.giti.waseda.ac.jp/) at the [AMS Lab](https://www.ams.giti.waseda.ac.jp/), where I led the Recognition Research Group. From **October 2026** I will join the [**Lumen Lab**](https://lumen-lab-polyu.github.io/) at **The Hong Kong Polytechnic University** as a Postdoctoral Researcher, working with [**Prof. Jingcai Guo**](https://jingcaiguo.github.io/).
 
 
-My Ph.D. research centers on **small object detection in aerial and UAV imagery**, covering label assignment, bounding box regression, and feature modeling under small-object, dense, and cross-scale conditions.
+My Ph.D. research focused on **small object detection in aerial and UAV imagery**, covering label assignment, bounding box regression, and feature modeling under small-object, dense, and cross-scale conditions.
 
 My **current work** moves from perception to structured generation: **text-to-CAD**, where compact language models are fine-tuned to generate parametric CAD programs (CadQuery) from natural language. Alongside this, I continue to work on open-vocabulary detection and language-guided localization with compact vision-language models, and on agent systems that build on reliable perception.
 
-> *Expected graduation: Sep 2026.*
+> *Ph.D. awarded: Sep 2026.*
 
 <div align="left">
   <a href="https://nuayhl.github.io/NuayHL/Haoyuan_Liu_CV.pdf">
