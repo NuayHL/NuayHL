@@ -13,7 +13,7 @@
   <a href="https://lumen-lab-polyu.github.io/team/">
     <img src="https://img.shields.io/badge/Lumen%20Lab-PolyU-A6192E?style=flat-square" alt="Lumen Lab" />
   </a>
-  <a href="https://nuayhl.github.io/Haoyuan_Liu_CV.pdf">
+  <a href="https://nuayhl.github.io/NuayHL/Haoyuan_Liu_CV.pdf">
     <img src="https://img.shields.io/badge/CV-View%20PDF-D32F2F?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="CV" />
   </a>
   <!--
@@ -38,7 +38,7 @@ My **current work** moves from perception to structured generation: **text-to-CA
 > *Expected graduation: Sep 2026.*
 
 <div align="left">
-  <a href="https://nuayhl.github.io/Haoyuan_Liu_CV.pdf">
+  <a href="https://nuayhl.github.io/NuayHL/Haoyuan_Liu_CV.pdf">
     <img src="https://img.shields.io/badge/%F0%9F%93%84%20View%20My%20CV-PDF-D32F2F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View CV" />
   </a>
   <a href="https://github.com/NuayHL/NuayHL/raw/main/Haoyuan_Liu_CV.pdf">
