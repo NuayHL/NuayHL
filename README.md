@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Haoyuan Liu 👋</h1>
   <p>
-    <b>Incoming Postdoctoral Researcher @ <a href="https://lumen-lab-polyu.github.io/">Lumen Lab</a>, The Hong Kong Polytechnic University</b><br>
+    <b>Postdoctoral Researcher @ <a href="https://lumen-lab-polyu.github.io/">Lumen Lab</a>, The Hong Kong Polytechnic University</b><br>
     <b>Ph.D. @ Waseda University (AMS Lab)</b><br>
     <i>Small / Dense Object Detection · CAD Generation with LLMs · Multi-Modal Perception & Agent Systems</i>
   </p>
@@ -28,7 +28,7 @@
 
 ### About Me
 
-I received my Ph.D. in Computer Science and Communications Engineering from **Waseda University**, Japan, in **September 2026**, advised by [**Prof. Hiroshi Watanabe**](https://www.ams.giti.waseda.ac.jp/) at the [AMS Lab](https://www.ams.giti.waseda.ac.jp/), where I led the Recognition Research Group. From **October 2026** I will join the [**Lumen Lab**](https://lumen-lab-polyu.github.io/) at **The Hong Kong Polytechnic University** as a Postdoctoral Researcher, working with [**Prof. Jingcai Guo**](https://jingcaiguo.github.io/).
+I received my Ph.D. in Computer Science and Communications Engineering from **Waseda University**, Japan, in **September 2026**, advised by [**Prof. Hiroshi Watanabe**](https://www.ams.giti.waseda.ac.jp/) at the [AMS Lab](https://www.ams.giti.waseda.ac.jp/), where I led the Recognition Research Group. Since **October 2026**, I have been a Postdoctoral Researcher at the [**Lumen Lab**](https://lumen-lab-polyu.github.io/) at **The Hong Kong Polytechnic University**, working with [**Prof. Jingcai Guo**](https://jingcaiguo.github.io/).
 
 
 My Ph.D. research focused on **small object detection in aerial and UAV imagery**, covering label assignment, bounding box regression, and feature modeling under small-object, dense, and cross-scale conditions.

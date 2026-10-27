@@ -1,5 +1,6 @@
 # macOS
 .DS_Store
+.claude
 
 # LaTeX 编译中间产物
 *.aux
